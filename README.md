@@ -52,4 +52,4 @@ A técnica utilizada é conhecida como **"Leitura de Botões via Divisor de Tens
   			É POSSÍVEL ENTRAR E SAIR DOS MENUS ATRAVÉS DOS BOTÕES.
 
 ## Palavras-chave
-ESP32, ADC, Leitura de Botões, Divisor de Tensão, Projeto ESP-IDF
+ESP32, ADC, Leitura de Botões, Divisor de Tensão, Projeto ESP-IDF, Gabriel Comim
