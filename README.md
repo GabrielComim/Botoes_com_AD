@@ -1,5 +1,19 @@
- Projeto de leitura de botões com ADC no ESP32.
- Programado por Gabriel Comim.
+# Projeto: Leitura de botões com ADC no ESP32.
+ Autor: Gabriel Comim
+
+## Descrição: Este projeto demonstra como realizar a leitura de múltiplos botões físicos utilizando apenas uma entrada analógica (ADC) no microcontrolador **ESP32**.  
+
+A técnica utilizada é conhecida como **"Leitura de Botões via Divisor de Tensão com ADC"**, uma solução eficiente para economizar pinos GPIO.
+
+## Aplicações
+- Projetos embarcados com limitação de GPIOs
+- Sistemas com múltiplos botões físicos
+- Projetos de automação usando **ESP32**
+- Sistemas IoT com leitura analógica de botões
+
+ ## Tecnoogias utilizadas
+ Placa de desenvolvimento: ESP32 
+ framework: ESP_IDF
  
  # HARDWARE:
  CONSISTE EM 4 BOTÕES LIGADOS EM UMA ENTRADA AD PARA CAPTAR QUAL FOI ACIONADO CONFORME A TENSÃO QUE É GERADA NO AD.
@@ -36,3 +50,6 @@
   			BOTÃO 3 - SETA PARA BAIXO 
   			BOTÃO 4 - VOLTAR
   			É POSSÍVEL ENTRAR E SAIR DOS MENUS ATRAVÉS DOS BOTÕES.
+
+## Palavras-chave
+ESP32, ADC, Leitura de Botões, Divisor de Tensão, Projeto ESP-IDF
